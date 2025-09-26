@@ -1,1 +1,1 @@
-# project-culture-hunters
+# culture-hunters
